@@ -30,3 +30,4 @@ public class BadCGPAController {
         return "bad-cgpa";
     }
 }
+
