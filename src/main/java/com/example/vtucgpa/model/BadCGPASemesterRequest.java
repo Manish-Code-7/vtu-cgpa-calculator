@@ -18,3 +18,4 @@ public class BadCGPASemesterRequest {
         this.sgpaList = sgpaList;
     }
 }
+

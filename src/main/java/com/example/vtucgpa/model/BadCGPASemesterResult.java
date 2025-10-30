@@ -17,3 +17,4 @@ public class BadCGPASemesterResult {
         this.percentage = percentage;
     }
 }
+
